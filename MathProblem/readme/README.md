@@ -1,6 +1,6 @@
 ### Explanation
 
-Because of this equation:\ 
+Because of this equation: \ 
 ![equation](./equation.png)\
 the problem can be solved without full calculation of all factorials.\
 \
