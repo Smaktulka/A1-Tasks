@@ -64,7 +64,7 @@ public class LoginsServiceImpl implements LoginsService{
 
     @Override
     public LoginsEntity getByAppAccountName(String appAccountName) {
-        return loginsRepository.getByAppAccountName(appAccountName);
+        return loginsRepository. getByAppAccountName(appAccountName);
     }
 
     @Override
