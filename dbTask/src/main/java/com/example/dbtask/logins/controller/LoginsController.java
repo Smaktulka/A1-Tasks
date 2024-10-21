@@ -9,9 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping(value = "/logins")
 public class LoginsController {
-
     private final LoginsService loginsService;
-
     public LoginsController (LoginsService loginsService) {
         this.loginsService = loginsService;
     }
